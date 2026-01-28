@@ -22,13 +22,13 @@ Analysis of 500+ fulfillment requests for a nonprofit furniture bank to identify
 - **Business Analysis**: Translated data insights into actionable operational recommendations
 
 ## Files in This Repository
-- `FF_Fulfillment_Dashboard.pbix` - Power BI dashboard file
+- ![Dashboard PowerBI File](report/FF_Fulfillment_Dashboard.pbix) - Power BI dashboard file
 - `FF_Fulfillment_Slide_Deck.pdf` - Executive presentation with data breakdown and recommendations
 - `FF_Fulfillment_Mock.csv` - Sample dataset (500 fulfillment requests, 1269 items)
 - `"C:\Users\Dell\Downloads\FF Fulfillment Analysis Official.pdf"` - Preview of interactive dashboard
 
 ## Dashboard Preview
-![Dashboard Screenshot](FF_dashboard_screenshot.png)
+![Dashboard Screenshot](report/FF_dashboard_screenshot.png)
 
 ## Sample Insights Slide
 ![Insights Example](report/FF_Fulfillment_Slide_Deck.png)
