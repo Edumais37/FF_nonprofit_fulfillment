@@ -1,1 +1,52 @@
-# furniture-bank-fulfillment
+# Furniture Bank Fulfillment Analysis
+
+## Project Overview
+Analysis of 500+ fulfillment requests for a nonprofit furniture bank to identify operational bottlenecks and optimize completion rates and inventory.
+
+## Business Questions Addressed
+- When does demand peak, and how should staffing align?
+- Which item categories are undersupplied vs oversupplied?
+- Are all partner organizations performing at similar efficiency?
+- Are we serving all client demographics equitably?
+
+## Key Findings
+- 69% of requests occur January-June, but staffing and volunteers are flat year-round
+- Kitchen requests show lowest fulfillment (71%) while office items are oversupplied (84%)
+- Quantity of items per order is fulfilled at 48% in requests for Kitchenware, 6 points lower than average
+- Partner org fulfillment time varies from 9-15 days despite similar volumes, although completion rates are not consistent
+- 13-point completion rate gap between veterans (83%) and low-income families (70%)
+
+## Tools & Skills
+- **Power BI**: Interactive dashboard with drill-down by month, category, partner org, demographics
+- **Data Modeling**: Created schema with relationships across fulfillment, inventory, and client data
+- **Business Analysis**: Translated data insights into actionable operational recommendations
+
+## Files in This Repository
+- `FF_Fulfillment_Dashboard.pbix` - Power BI dashboard file
+- `FF_Fulfillment_Slide_Deck.pdf` - Executive presentation with data breakdown and recommendations
+- `FF_Fulfillment_Mock.csv` - Sample dataset (500 fulfillment requests, 1269 items)
+- `"C:\Users\Dell\Downloads\FF Fulfillment Analysis Official.pdf"` - Preview of interactive dashboard
+
+## Dashboard Preview
+![Dashboard Screenshot](FF_dashboard_screenshot.png)
+
+## Sample Insights Slide
+![Insights Example](<img width="960" height="540" alt="FF_Fulfillment_Slide_Deck" src="https://github.com/user-attachments/assets/89e340d9-ddc3-4545-a28a-07281f83d749" />
+)
+
+## How to Use
+1. Download the `.pbix` file
+2. Open in Power BI Desktop (free download from Microsoft)
+3. Explore interactive filters and drill-downs
+
+## About This Project
+This was a portfolio project demonstrating my ability to:
+- Analyze operational data to identify inefficiencies
+- Build executive-ready dashboards and presentations
+- Provide data-driven recommendations that drive business outcomes
+
+## Purpose and Inspiration
+- Framework designed for nonprofit furniture banks and similar operations-focused organizations. 
+- Mock data used to demonstrate capabilities; methodology applicable to real operational datasets.
+
+**Available for similar projects.** Contact: elliotdumais37@gmail.com]
