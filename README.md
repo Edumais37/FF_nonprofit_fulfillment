@@ -25,7 +25,6 @@ Analysis of 500+ fulfillment requests for a nonprofit furniture bank to identify
 - ![Dashboard](report/FF_Fulfillment_Dashboard.pbix) - Power BI dashboard file
 - ![Slide Deck](report/FF_Fulfillment_Slide_Deck.pdf) - Executive presentation with data breakdown and recommendations
 - ![Dataset](data/FF_Fulfillment_Mock.csv) - Sample dataset (500 fulfillment requests, 1269 items)
-- `"C:\Users\Dell\Downloads\FF Fulfillment Analysis Official.pdf"` - Preview of interactive dashboard
 
 ## Dashboard Preview
 ![Dashboard Screenshot](report/FF_dashboard_screenshot.png)
@@ -48,4 +47,4 @@ This was a portfolio project demonstrating my ability to:
 - Framework designed for nonprofit furniture banks and similar operations-focused organizations. 
 - Mock data used to demonstrate capabilities; methodology applicable to real operational datasets.
 
-**Available for similar projects.** Contact: elliotdumais37@gmail.com]
+**Available for similar projects.** Contact: elliotdumais37@gmail.com
