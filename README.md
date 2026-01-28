@@ -11,8 +11,8 @@ Analysis of 500+ fulfillment requests for a nonprofit furniture bank to identify
 
 ## Key Findings
 - 69% of requests occur January-June, but staffing and volunteers are flat year-round
-- Kitchen requests show lowest fulfillment (71%) while office items are oversupplied (84%)
-- Quantity of items per order is fulfilled at 48% in requests for Kitchenware, 6 points lower than average
+- Kitchen requests show lowest completion rate (71%) while office items are oversupplied (84%)
+- Item fulfillment for kitchen requests is 48%, 6 points below the 54% average, indicating chronic supply shortage
 - Partner org fulfillment time varies from 9-15 days despite similar volumes, although completion rates are not consistent
 - 13-point completion rate gap between veterans (83%) and low-income families (70%)
 
