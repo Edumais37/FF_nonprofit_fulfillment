@@ -31,8 +31,7 @@ Analysis of 500+ fulfillment requests for a nonprofit furniture bank to identify
 ![Dashboard Screenshot](FF_dashboard_screenshot.png)
 
 ## Sample Insights Slide
-![Insights Example](<img width="960" height="540" alt="FF_Fulfillment_Slide_Deck" src="https://github.com/user-attachments/assets/89e340d9-ddc3-4545-a28a-07281f83d749" />
-)
+![Insights Example](report/FF_Fulfillment_Slide_Deck.png)
 
 ## How to Use
 1. Download the `.pbix` file
